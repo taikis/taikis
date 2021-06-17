@@ -9,14 +9,12 @@
 ## 📣I'm...
 
 - 💫Taiki Sugawara
-- 
 - 🏫4th year University student
 
 ## 📣I'm learning about...
 
-- Python![image](https://user-images.githubusercontent.com/60678028/122316925-998a1580-cf57-11eb-9c67-00652fd3587f.png)
-
-- JavaScript (TypeScript, Vue.js)
+- 🦎Python
+- 🌱JavaScript (TypeScript, Vue.js)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
