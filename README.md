@@ -15,6 +15,7 @@
 
 - 🦎Python
 - 🌱JavaScript (TypeScript, Vue.js)
+- 🛠GAS
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
