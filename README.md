@@ -14,9 +14,13 @@
 ## 📣I'm learning about...
 
 - 🦎Python
+- 🐙PHP
 - 🌱JavaScript (TypeScript, Vue.js)
 - 🛠GAS
 
+## 📣Article about me
+
+- [HOSEI University PickUP](https://www.hosei.ac.jp/pickup/article-20210409102758/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikis&theme=cobalt" />
