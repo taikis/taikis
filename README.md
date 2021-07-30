@@ -28,4 +28,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikis&theme=cobalt" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taikis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
