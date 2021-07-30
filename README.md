@@ -4,6 +4,8 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/taikis/posts.svg)](http://qiita.com/taikis) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/taikis/contributions.svg)](http://qiita.com/taikis) 
+![Profile Viewer](https://komarev.com/ghpvc/?username=taikis)
+
  
 ## 📣I'm...
 
