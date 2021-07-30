@@ -2,9 +2,8 @@
   Hello!
 </h1>
 
- <a href="http://qiita.com/taikis" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Qiita-55C500?style=flat&amp;logo=qiita&amp;logoColor=white">
- </a>
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/taikis/posts.svg)](http://qiita.com/taikis) 
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/taikis/contributions.svg)](http://qiita.com/taikis) 
  
 ## 📣I'm...
 
