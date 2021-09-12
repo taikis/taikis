@@ -16,8 +16,8 @@
 
 - 🦎Python
 - 🐙PHP
-- 🌱JavaScript (TypeScript, Vue.js)
-- 🛠GAS
+- 🌱JavaScript (TypeScript, Node.js)
+- 🛠GAS (Of course TypeScript)
 
 ## 📣Article about me
 
