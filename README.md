@@ -2,6 +2,7 @@
   Hello!
 </h1>
 
+[![Twitter](https://img.shields.io/twitter/follow/taikis_jp)](https://twitter.com/taikis_jp)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/taikis/posts.svg)](http://qiita.com/taikis) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/taikis/contributions.svg)](http://qiita.com/taikis) 
 ![Profile Viewer](https://komarev.com/ghpvc/?username=taikis)
