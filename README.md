@@ -26,8 +26,9 @@
 
 ## 📣Data about me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikis&theme=cobalt" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=taikis&theme=onedark&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taikis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+![taikis's GitHub stats](https://github-readme-stats.vercel.app/api?username=taikis&count_private=true&theme=onedark&show_icons=true)
+![taikis's GitHub Language](https://github-readme-stats.vercel.app/api/top-langs/?username=taikis&layout=compact&theme=onedark)
