@@ -23,6 +23,7 @@
 ## 📣Article about me
 
 - [HOSEI University PickUP](https://www.hosei.ac.jp/pickup/article-20210409102758/)
+- [広報誌『法政』2021年10月号](http://phronesis.hosei.ac.jp/article/article-20211104173222)
 
 ## 📣Data about me
 
