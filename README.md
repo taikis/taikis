@@ -1,13 +1,15 @@
-<h1 align="center">
+<div  align="center">
+<h1>
   Hello!
 </h1>
 
-[![Twitter](https://img.shields.io/twitter/follow/taikis_jp)](https://twitter.com/taikis_jp)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/taikis/posts.svg)](http://qiita.com/taikis) 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/taikis/contributions.svg)](http://qiita.com/taikis) 
-![Profile Viewer](https://komarev.com/ghpvc/?username=taikis)
-
+<a href="https://twitter.com/taikis_jp"><img src="https://img.shields.io/twitter/follow/taikis_jp"></a>
+<a href="http://qiita.com/taikis"><img src="https://qiita-badge.apiapi.app/s/taikis/posts.svg"></a>
+<a href="http://qiita.com/taikis"><img src="https://qiita-badge.apiapi.app/s/taikis/contributions.svg"></a>
+<img src="https://komarev.com/ghpvc/?username=taikis">
  
+</div>
+  
 ## 📣I'm...
 
 - 💫Taiki Sugawara
