@@ -13,14 +13,13 @@
 ## 📣I'm...
 
 - 💫Taiki Sugawara
-- 🏫4th year University student
+- 🏫Graduate School 1st year students
 
 ## 📣I'm learning about...
 
 - 🦎Python
 - 🐙PHP
-- 🌱JavaScript (TypeScript, Node.js)
-- 🛠GAS (Of course TypeScript)
+- 🌱JavaScript
 
 ## 📣Article about me
 
