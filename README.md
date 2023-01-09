@@ -25,6 +25,7 @@
 
 - [HOSEI University PickUP](https://www.hosei.ac.jp/pickup/article-20210409102758/)
 - [広報誌『法政』2021年10月号](http://phronesis.hosei.ac.jp/article/article-20211104173222)
+- [広報誌『法政』2023年1,2月号](https://www.hosei.ac.jp/info/article-20221208103102/)
 
 ## 📣Data about me
 
