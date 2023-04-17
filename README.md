@@ -13,7 +13,7 @@
 ## 📣I'm...
 
 - 💫Taiki Sugawara
-- 🏫Graduate School 1st year students
+- 🏫Graduate School 2nd year students
 
 ## 📣I'm learning about...
 
